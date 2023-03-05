@@ -1,0 +1,7 @@
+.list-container {
+  max-width: 600px;  
+}
+
+.list-container__title {
+  color: red;
+}

@@ -1,0 +1,26 @@
+.header {
+  background-color: rgba(113, 139, 0, 0.808);
+}
+.header .header__container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.header .header__container .header__logo {
+  width: 80px;
+  
+}
+.header .header__container .navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 26px;
+}
+.header .header__container .navbar .navbar__link {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 700;
+  color: white;
+  margin: 0;
+}
